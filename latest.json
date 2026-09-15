@@ -1,8 +1,9 @@
 {
   "version": "1.3.39",
-  "release_tag": "v1.3.43",
+  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.43/Amarin-app-1.3.39.zip",
   "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.43/Amarin-app-1.3.39.zip",
   "sha256": "7874B1FA37AE227128FD11745B1C95266988319E39546382A12E6D3FD0A86A57",
+  "release_tag": "v1.3.43",
   "size_bytes": 17412188,
   "mandatory": true,
   "notes": "Release v1.3.43: Steam Avatar in Discord RPC, Draggable UI, Security telemetry, chunked download & resume"
