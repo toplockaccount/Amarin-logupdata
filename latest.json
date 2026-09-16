@@ -1,10 +1,10 @@
 {
-  "version": "1.3.41",
-  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.49/Amarin-app-1.3.41.zip",
-  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.49/Amarin-app-1.3.41.zip",
-  "sha256": "7FDA4F6B0C7422C0CB866F699C738C0AA32DDDC0BE16EC7984E8EFCD02572DB1",
-  "release_tag": "v1.3.49",
-  "size_bytes": 17361633,
+  "version": "1.3.42",
+  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.50/Amarin-app-1.3.42.zip",
+  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.50/Amarin-app-1.3.42.zip",
+  "sha256": "A945F70D4BB6DC0D9546DA512E5180F6B81169D25D1BB2107AC06D773CD85B39",
+  "release_tag": "v1.3.50",
+  "size_bytes": 88227874,
   "mandatory": true,
-  "notes": "Release v1.3.49: Main App v1.3.41"
+  "notes": "Release v1.3.50: Main App v1.3.42 with Multi-Format and Animated GIF Steam Avatar on Discord RPC"
 }
