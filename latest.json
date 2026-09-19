@@ -1,10 +1,10 @@
 {
-  "version": "1.3.56",
-  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.56/Amarin-app-1.3.56.zip",
-  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.56/Amarin-app-1.3.56.zip",
-  "sha256": "3628E409EA64CC1E40E9F1ACA3D4299448BDE4DDE053531667E2D526B7C83177",
-  "release_tag": "v1.3.56",
-  "size_bytes": 17365828,
+  "version": "1.3.57",
+  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.57/Amarin-app-1.3.57.zip",
+  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.57/Amarin-app-1.3.57.zip",
+  "sha256": "DE86BB1ACC275D1341088D68800ABB2715B1D0AE5A89FCC9114C04B06B324344",
+  "release_tag": "v1.3.57",
+  "size_bytes": 17366418,
   "mandatory": true,
-  "notes": "Fix Discord"
+  "notes": "Fix False Service Disabled Alert"
 }
