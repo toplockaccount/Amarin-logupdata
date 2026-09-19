@@ -1,10 +1,10 @@
 {
-  "notes": "Release v1.3.52: แก้ไขการคลิกการ์ดเกมและโปรแกรมในหน้า Manage",
-  "sha256": "C3F2D0AD18697CA8CE14EC7223B55914274DE85FC1A2FE87A3E16DA772105BF8",
-  "release_tag": "v1.3.52",
+  "notes": "Release v1.3.53: เพิ่มหน้าตรวจสอบความเข้ากันได้ของ Windows และบล็อกระบบที่ไม่รองรับ",
+  "sha256": "82b29dafd2a1ac4428e39652c3dbe35b38736790e26b42f2ceca430d1935b609",
+  "release_tag": "v1.3.53",
   "mandatory": true,
-  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.52/Amarin-app-1.3.52.zip",
-  "version": "1.3.52",
-  "size_bytes": 88249353,
-  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.52/Amarin-app-1.3.52.zip"
+  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.53/Amarin-app-1.3.53.zip",
+  "version": "1.3.53",
+  "size_bytes": 88255547,
+  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.53/Amarin-app-1.3.53.zip"
 }
