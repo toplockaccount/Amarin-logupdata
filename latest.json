@@ -1,10 +1,10 @@
 {
-  "version": "1.3.54",
-  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.54/Amarin-app-1.3.54.zip",
-  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.54/Amarin-app-1.3.54.zip",
-  "sha256": "0302EE0512BB3F720F7D5526D0023A598DA04B8E1DFB5F5CC3DF6DB93C6F3566",
-  "release_tag": "v1.3.54",
-  "size_bytes": 17365821,
+  "version": "1.3.55",
+  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.55/Amarin-app-1.3.55.zip",
+  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.55/Amarin-app-1.3.55.zip",
+  "sha256": "77368D8CA32CC36B5F8B016532D2D87621421036AB354DEF5148BFCAF3DC7596",
+  "release_tag": "v1.3.55",
+  "size_bytes": 17365880,
   "mandatory": true,
-  "notes": "Release v1.3.54: แก้ไขระบบ Discord Rich Presence และการแสดงสถานะเกม/โปรไฟล์ Steam"
+  "notes": "Fix Discord"
 }
