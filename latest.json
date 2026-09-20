@@ -1,10 +1,10 @@
 {
-  "version": "1.3.57",
-  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.57/Amarin-app-1.3.57.zip",
-  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.57/Amarin-app-1.3.57.zip",
-  "sha256": "DE86BB1ACC275D1341088D68800ABB2715B1D0AE5A89FCC9114C04B06B324344",
-  "release_tag": "v1.3.57",
-  "size_bytes": 17366418,
+  "version": "1.3.58",
+  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.58/Amarin-app-1.3.58.zip",
+  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.58/Amarin-app-1.3.58.zip",
+  "sha256": "d84f27da9d49d90c5b52924b64d716f650e97f2b68cff14daf1677042039bf9d",
+  "release_tag": "v1.3.58",
+  "size_bytes": 17372092,
   "mandatory": true,
-  "notes": "Fix False Service Disabled Alert"
+  "notes": "ปรับหน้าตรวจสอบ Windows เป็น Terminal โทน Termius พร้อมรายละเอียด OS, Build และสถาปัตยกรรม โดยคงเกณฑ์ตรวจสอบเดิม"
 }
