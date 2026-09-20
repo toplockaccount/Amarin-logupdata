@@ -1,10 +1,10 @@
 {
-  "version": "1.3.59",
-  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.59/Amarin-app-1.3.59.zip",
-  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.59/Amarin-app-1.3.59.zip",
-  "sha256": "09c6e86a9b9860bc98a936743e49abf7a74b57bf6fa05806ad4e4bffd863b080",
-  "release_tag": "v1.3.59",
-  "size_bytes": 17395277,
+  "version": "1.3.60",
+  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.60/Amarin-app-1.3.60.zip",
+  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.60/Amarin-app-1.3.60.zip",
+  "sha256": "44091c0855799ac1634ee7d34c372a1e99f762a77551844f9feea459b7e06b85",
+  "release_tag": "v1.3.60",
+  "size_bytes": 17395263,
   "mandatory": true,
-  "notes": "ปรับรุ่นโปรแกรมหลักเป็น v1.3.59 และอัปเดต Amarin-Launcher เป็น v1.3.20 พร้อมหน้าจอ Terminal โทนครีมและข้อมูลโปรไฟล์ Steam; ใช้ Launcher เพื่อติดตั้งหรืออัปเดต"
+  "notes": "โปรแกรมหลัก Amarin Engine v1.3.60 พร้อม Amarin-Launcher v1.3.21; แก้การแสดงข้อความและปุ่มควบคุมแถบแท็บของ Launcher; ใช้ Launcher เพื่อติดตั้งหรืออัปเดต"
 }
