@@ -1,10 +1,10 @@
 {
-  "version": "1.3.60",
-  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.60/Amarin-app-1.3.60.zip",
-  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.60/Amarin-app-1.3.60.zip",
-  "sha256": "44091c0855799ac1634ee7d34c372a1e99f762a77551844f9feea459b7e06b85",
-  "release_tag": "v1.3.60",
-  "size_bytes": 17395263,
+  "version": "1.3.61",
+  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.62/Amarin-app-1.3.61.zip",
+  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.62/Amarin-app-1.3.61.zip",
+  "sha256": "c1ecaa69be30e0030bf5d17d85a62179b23332e976c1033cef0d09bcb835aaa3",
+  "release_tag": "v1.3.62",
+  "size_bytes": 17133610,
   "mandatory": true,
-  "notes": "โปรแกรมหลัก Amarin Engine v1.3.60 พร้อม Amarin-Launcher v1.3.21; แก้การแสดงข้อความและปุ่มควบคุมแถบแท็บของ Launcher; ใช้ Launcher เพื่อติดตั้งหรืออัปเดต"
+  "notes": "Amarin Engine v1.3.61 และ Amarin Launcher v1.3.23; เพิ่มการตรวจสอบ session ผูกกับ HWID และ Steam ID ผ่าน Auth Server"
 }
