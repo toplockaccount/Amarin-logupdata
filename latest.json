@@ -1,5 +1,9 @@
 {
-  "sha256": "a3a03a86387896162b6a233b3296834475d5990facd8206c808ef005c78c6e8f",
-  "version": "1.3.65",
-  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.65/Amarin-app-1.3.65.zip"
+  "version": "1.3.66",
+  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.68/Amarin-app-1.3.66.zip",
+  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.68/Amarin-app-1.3.66.zip",
+  "sha256": "4D44A910A5FFA8F9F24B3F56845B3681C1B568EEAFD1EEA8FDEE5B1A3495197D",
+  "release_tag": "v1.3.68",
+  "size_bytes": 88264295,
+  "updated_at": "2569-09-28T17:18:24+07:00"
 }
