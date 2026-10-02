@@ -1,9 +1,9 @@
 {
-  "version": "1.3.40",
-  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.81/Amarin-Launcher-1.3.40.exe",
-  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.81/Amarin-Launcher-1.3.40.exe",
-  "sha256": "28C308DF532A38D488CBD43481E970A8A7AB9945665F74A786B3EC31C7481E5B",
-  "release_tag": "v1.3.81",
-  "size_bytes": 185329715,
-  "updated_at": "2026-10-02T10:07:55.310023+00:00"
+  "version": "1.3.41",
+  "downloadUrl": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.82/Amarin-Launcher-1.3.41.exe",
+  "download_url": "https://github.com/toplockaccount/Amarin-logupdata/releases/download/v1.3.82/Amarin-Launcher-1.3.41.exe",
+  "sha256": "DA0FCE6AF0DD1A6554F4A910FE4E97CCF18B1A6ED851FD5BE0AF7B3726112344",
+  "release_tag": "v1.3.82",
+  "size_bytes": 185330739,
+  "updated_at": "2026-10-02T21:28:22.223970+00:00"
 }
